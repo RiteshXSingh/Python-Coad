@@ -1,0 +1,15 @@
+print(7*5)
+
+print(2+4*9)
+print((2+6)*19)
+
+
+print(10-4/2)
+print((10-4)/2)
+print(2**3-4)
+print(4**(9-6))
+
+
+price = 500
+discount = 0.3
+final = price * (1 - discount)
