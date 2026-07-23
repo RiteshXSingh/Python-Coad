@@ -1,0 +1,28 @@
+# Variable
+name = 'Katappa'
+user_id = KPRSHS16
+progress = 0.68
+TRP = 100
+verified = true
+
+XP = 120
+XP = 240
+print(XP)
+
+# Data Type
+
+# Integer
+year = 2026
+age = 16
+
+# Float
+perchantage = 99.99
+got = 93.45
+
+# Sting
+message = 'Comming Soon'
+Date = 'May be January'
+
+# Boolen
+study_in_night = True
+Or = False
